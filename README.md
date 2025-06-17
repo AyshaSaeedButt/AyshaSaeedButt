@@ -51,19 +51,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AyshaSaeedButt&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyshaSaeedButt&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AyshaSaeedButt&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
