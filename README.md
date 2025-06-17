@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey, I'm Alpha,Experienced Software and AI/ML Engineer
+
+# Hey, I'm Alpha,Experienced Software and AI/ML Engineer
 
 
 # 💻 Tech Stack:
