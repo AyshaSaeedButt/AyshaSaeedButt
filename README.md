@@ -1,7 +1,7 @@
 <div align="center">
 
 #  Hey, I'm Alpha  
-### Experienced Software and AI/ML Engineer
+### Experienced Full-stack Developer and AI/ML Engineer
 
 </div>
 
